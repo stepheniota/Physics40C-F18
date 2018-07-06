@@ -6,19 +6,25 @@ Hello all! This is my repository for all things I find important while tutoring 
 
 
 
-
-### Course Info
+## Logistics
 
 PHYS040C-F18
 
 #### Lecture
-- TR 3:40 PM-5:00 PM in Physics 2000
+
+- **TR** 3:40 PM-5:00 PM in Physics 2000
 
 #### My SI Sessions
-- M 12:00 PM - 1:00 PM in Surge 112
-- T 12:00 PM - 1:00 PM in Surge 108
-- R 12:00 PM - 1:00 PM in Surge 108
 
-### Contact me
+- **M** 12:00 PM - 1:00 PM in Surge 112
+- **TR** 12:00 PM - 1:00 PM in Surge 108
 
--  ` siota001@ucr.edu ` Include `[SI]` in the subject line so I can get back to you faster
+#### Other SI Sessions
+
+- http://arc.ucr.edu/excel/si/
+
+
+#### Contact me
+
+- ` siota001@ucr.edu `
+- Include `[SI]` in the subject line
