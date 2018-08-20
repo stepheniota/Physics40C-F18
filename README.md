@@ -4,7 +4,7 @@
 Hello all! This is my repository for all things I find important while tutoring for the class. I'll be posting all material from my *SI* sessions, as well as extra material on important concepts that catch my eye.
 
 
-
+View the syllabus (here!)[./Syllabus/2018f-phys40c-SI-syllabus.pdf]
 
 ## Logistics
 
