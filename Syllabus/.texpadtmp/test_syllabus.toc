@@ -1,0 +1,8 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble }{}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.3}
+\contentsline {section}{\numberline {2}Note on External TikZ Diagrams}{1}{section.4}
+\contentsline {section}{\numberline {3}Itemize test}{1}{section.5}
+\contentsline {section}{\numberline {4}Table Example}{2}{section.9}
+\contentsline {section}{\numberline {5}XeLaTeX}{2}{section.11}
+\contentsline {section}{\numberline {6}Other Remarks}{2}{section.12}
+\contentsline {section}{\numberline {7}lipsum}{2}{section.13}

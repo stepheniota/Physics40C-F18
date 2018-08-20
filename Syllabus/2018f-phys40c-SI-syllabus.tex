@@ -1,0 +1,150 @@
+%% LaTeX Paper Template, Stephen Iota (siota001@ucr.edu)
+%% last updated: Aug. 2018
+
+\documentclass[11pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%      PACKAGES      %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%% CONTENT FORMAT AND DESIGN
+%% -------------------------
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fancyhdr}		% to put preprint number
+\usepackage{lipsum}         % block of text (formatting test)
+\usepackage{framed}        % boxed remarks
+\usepackage[font=small]{caption} % caption font is small
+\usepackage{float}         % for strict placement e.g. [H]
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  DOCUMENT PROPERTIES  %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[margin=2cm]{geometry}   % margins
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  (RE)NEW COMMANDS  %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% FOR `NOT SHOUTING' CAPS (e.g. acronyms)
+\newcommand{\acro}[1]{\textsc{\MakeLowercase{#1}}}    
+
+
+%% COMMANDS FOR TEMPORARY COMMENTS
+%% -------------------------------
+\newcommand{\comment}[2]{\textcolor{red}{[\textbf{#1} #2]}}
+\newcommand{\stephen}[1]{{
+	\color{green!50!black} \footnotesize [\textbf{\textsf{Stephen}}: \textsf{#1}]
+	}}
+
+%% COMMANDS FOR TOP-MATTER
+%% -----------------------
+\newcommand{\email}[1]{\href{mailto:#1}{#1}}
+\newenvironment{institutions}[1][2em]{\begin{list}{}{\setlength\leftmargin{#1}\setlength\rightmargin{#1}}\item[]}{\end{list}}
+
+%%%%%%%%%%%%%%%%%%%
+%%%  HYPERREF  %%%%
+%%%%%%%%%%%%%%%%%%%
+
+%% This package has to be at the end; can lead to conflicts
+
+\usepackage[
+	colorlinks=true,
+	citecolor=green!50!black,
+	linkcolor=NavyBlue!75!black,
+	urlcolor=green!50!black,
+	hypertexnames=false]{hyperref}
+
+
+
+
+%----------------------------------------------------
+
+
+
+
+\begin{document}
+
+
+
+%%%%%%%%%%%%%
+%%% Title %%%
+%%%%%%%%%%%%%
+
+
+\begin{center}
+
+\Large{
+\textsc{Supplemental Instruction}: \textbf{Physics 40C Fall 2018}
+}	
+\end{center}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%
+%%%  Logistics   %%%
+%%%%%%%%%%%%%%%%%%%%
+
+\section*{Logistics}
+
+\begin{tabular}{rlrl}
+
+\textsc{SI Leader}:
+&
+Stephen Iota
+&
+\textsc{Professor}:
+&
+??
+\\
+\textsc{Contact}:
+&
+\texttt{siota001@ucr.edu}
+&
+\textsc{Class Times}:
+&
+TR -- YY:YY Physics 2000
+\\
+\textsc{SI Times}:
+&
+MTR 12 - 1 pm
+\\
+\textsc{SI Location}:
+&
+M -- Surge 112, TR Surge 108
+\\
+\end{tabular}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Official Description %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\section*{Official SI Description}
+Supplemental Instruction is held in a series of sessions during the week to review the course material in addition to the lecture and discussions. It has been designed to help students taking historically difficult courses and has been statistically shown to improve students' grades compared to those who never attend supplemental instruction. Students are able to collaborate, ask questions and review concepts that are covered in class in a smaller class setting. SI Leaders are here to facilitate group discussion and help students with the challenging material they encounter. 
+
+%%%%%%%%%%%%%%%%
+%% Unofficial %%
+%%%%%%%%%%%%%%%%
+\section*{My Description}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
