@@ -1,10 +1,8 @@
 # Physics 40C, UCR Fall 2018
 
 
-Hello all! This is my repository for all things I find important while tutoring for the class. I'll be posting all material from my *SI* sessions, as well as extra material on important concepts that catch my eye.
+Hello all! This is my repository for notes, handouts, and worksheets relating to my SI sessions.
 
-
-View the syllabus (here!)[./Syllabus/2018f-phys40c-SI-syllabus.pdf]
 
 ## Logistics
 
@@ -12,6 +10,7 @@ PHYS040C-F18
 
 #### Lecture
 
+- Dr. Laura Sales
 - **TR** 3:40 PM-5:00 PM in Physics 2000
 
 #### My SI Sessions
@@ -22,7 +21,6 @@ PHYS040C-F18
 #### Other SI Sessions
 
 - http://arc.ucr.edu/excel/si/
-
 
 #### Contact me
 
