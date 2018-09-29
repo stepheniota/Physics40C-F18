@@ -6,7 +6,8 @@ Hello all! This is my repository for notes, handouts, and worksheets relating to
 
 ## Logistics
 
-PHYS040C-F18
+PHYS040C-F18:
+*General Physics III, Electromagnetism*
 
 #### Lecture
 
