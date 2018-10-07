@@ -34,8 +34,8 @@ Stephen Iota
 
 ## Worksheets
 
-- Worksheet 1: Charges and the $\vec{E}$ Field
+- [Worksheet 1: Charges and the **E** Field](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet1.pdf)
 
 ## Notes
 
-- Week 1
+- [Week 1](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week1.pdf)
