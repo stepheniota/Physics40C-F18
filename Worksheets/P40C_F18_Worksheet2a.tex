@@ -40,7 +40,7 @@
  
 \newcommand{\email}[1]{\texttt{\href{mailto:#1}{#1}}}
 
-\newcommand{\hint}[1]{\texttt{\color{blue}{#1}}}
+\newcommand{\hint}[1]{\color{Blue}{#1}}
  
 %----------------------------------------------------
 %%%%%%%%%%%%%%%%%%
@@ -85,6 +85,16 @@ October 9, 2018
 %% PROBLEMS %%
 %%%%%%%%%%%%%%
 
+\subsubsection*{README}
+
+``\textit{How do I even start this problem?!}''\\
+1) Take a deep breath
+2) carefully read the question
+3) draw and label figure and axes
+4) identify unknown and knowns
+5) write down relevant concepts and equations and 
+6) crunch the numbers!
+
 
 \section{Conceptual Questions}
 
@@ -106,13 +116,30 @@ October 9, 2018
 \item How much faster does the $\vec{E}$ field of a point charge decay compared to the $\vec{E}$ field of a charged-thin wire?
 \end{enumerate}
 
+\section{The Electric Field of a Continuous Distribution}
+
+\begin{enumerate}[label=(\alph*)]
+	\item The electric field strength $10.0$ cm away from a very long charged wire\footnote{\label{text}Look in text/notes to find relevant $\vec{E}$ field equation.} is $2000$ N/C. What is the electric field strength $5.0$ cm from the wire?
+	
+	\item The electric field strength $2.0$ cm from the surface of a $10$-cm-diameter metal ball\footnote{See footnote 1.} is $50,000$ N/C. What is the total  charge $Q$ (in nC) on the metal ball?
+\end{enumerate}
+
 
 
 \section{Thin Charged Wire}
 
-Show that the electric field $\vec{E}$ at point $p$ a distance $d$ above an infinite wire with total charge $Q$ is: 
-$$\vec{E}(p) = \frac{1}{4\pi\epsilon}\int_{-\infty}^\infty \! \mathrm{d}x \ \frac{\lambda x}{(d^2 + x^2)^\frac{3}{2}}  \ \hat{y}$$
+No notes or textbook this time! 
+Show that the electric field $\vec{E}$ at point $p$ a distance $r$ above an infinite wire with total charge $Q$ is: 
+$$\vec{E}(p) = \frac{1}{4\pi\epsilon}\int_{-\frac{L}{2}}^ \frac{L}{2} \! \mathrm{d}x \ \frac{\lambda x}{(r^2 + x^2)^\frac{3}{2}}  \ \hat{y}$$
 
 \includegraphics[width=.4\linewidth]{W2a_fig3.png}
+
+\hint{\texttt{Hint 1}: See problem 1(a)}
+
+\hint{\texttt{Hint 2}: Use that one theorem by that one greek guy... Pythagoras!}
+
+\hint{\texttt{Hint 3}: There's a $\cos{\theta}$ in there at some point...}
+
+\hint{\texttt{Hint 4}: No more hints!}{
 
 \end{document}
