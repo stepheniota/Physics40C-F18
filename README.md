@@ -10,26 +10,21 @@ Hello all! This is my repository for notes, handouts, and worksheets relating to
 Physics 40C:
 *General Physics III, Electromagnetism*
 
-### Me
 **SI Leader**:
 Stephen Iota
 ` siota001@ucr.edu `
 
 
-### My SI Sessions
+### SI Sessions
 
 - **M** 12:00 PM - 1:00 PM in Surge 112
 - **TR** 12:00 PM - 1:00 PM in Surge 108
+- for other session times see https://arc.ucr.edu/excel/si/
 
 
 ### Lecture
 
 - **TR** 3:40 PM-5:00 PM in Physics 2000; Dr. Laura Sales
-
-
-### Other SI Sessions
-
-- http://arc.ucr.edu/excel/si/
 
 
 ## Worksheets
