@@ -6,28 +6,27 @@ Hello all! This is my repository for notes, handouts, and worksheets relating to
 
 ## Logistics
 
-PHYS040C-F18:
+Physics 40C:
 *General Physics III, Electromagnetism*
 
+### Me
 **SI Leader**:
 Stephen Iota
 ` siota001@ucr.edu `
-- include `[SI]` in the subject line in all correspondences
 
 
-#### My SI Sessions
+### My SI Sessions
 
 - **M** 12:00 PM - 1:00 PM in Surge 112
 - **TR** 12:00 PM - 1:00 PM in Surge 108
 
 
-#### Lecture
+### Lecture
 
-- Dr. Laura Sales
-- **TR** 3:40 PM-5:00 PM in Physics 2000
+- **TR** 3:40 PM-5:00 PM in Physics 2000; Dr. Laura Sales
 
 
-#### Other SI Sessions
+### Other SI Sessions
 
 - http://arc.ucr.edu/excel/si/
 
