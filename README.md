@@ -1,5 +1,6 @@
 # Physics 40C, UCR Fall 2018
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Hello all! This is my repository for notes, handouts, and worksheets relating to my SI sessions.
 
@@ -33,8 +34,9 @@ Stephen Iota
 
 ## Worksheets
 
-- [Worksheet 1](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet1.pdf):
-*Charges and the **E** Field*
+- [Worksheet 1](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet1.pdf): *Charges and the **E** Field*
+
+- Worksheet 2a: *Understanding Charge Distributions*
 
 ## Notes
 
