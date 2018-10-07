@@ -36,7 +36,7 @@ Stephen Iota
 
 - [Worksheet 1](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet1.pdf): *Charges and the **E** Field*
 
-- Worksheet 2a: *Understanding Charge Distributions*
+- [Worksheet 2a](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet2a.pdf): *Understanding Charge Distributions*
 
 ## Notes
 
