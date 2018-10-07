@@ -34,7 +34,9 @@ Stephen Iota
 
 ## Worksheets
 
-- [Worksheet 1: Charges and the **E** Field](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet1.pdf)
+- [Worksheet 1](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet1.pdf)
+:
+*Charges and the **E** Field*
 
 ## Notes
 
