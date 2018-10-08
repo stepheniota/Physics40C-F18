@@ -10,9 +10,11 @@ Hello all! This is my repository for notes, handouts, and worksheets relating to
 Physics 40C:
 *General Physics III, Electromagnetism*
 
-**SI Leader**:
+SI Leader:
 Stephen Iota
 ` siota001@ucr.edu `
+
+[Syllabus](https://github.com/stepheniota/physics-40c-f18/blob/master/syllabus/2018f-p40c-SI-syllabus.pdf)
 
 
 ### SI Sessions
