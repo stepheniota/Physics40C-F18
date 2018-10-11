@@ -26,15 +26,18 @@ Stephen Iota
 
 ### Lecture
 
-- **TR** 3:40 PM-5:00 PM in Physics 2000; Dr. Laura Sales
-
+- Dr. Laura Sales
+- **TR** 3:40 PM-5:00 PM in Physics 2000
 
 ## Worksheets
 
 - [Worksheet 1](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet1.pdf): *Charges and the **E** Field*
-
 - [Worksheet 2a](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet2a.pdf): *Understanding Charge Distributions*
+- [Worksheet 2b](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet2b.pdf):
+*Gauss's Theorem*
 
 ## Notes
 
 - [Week 1](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week1.pdf)
+- [Week 2a](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week2a.pdf)
+- [Week 2b](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week2b.pdf)
