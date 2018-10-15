@@ -35,6 +35,8 @@ Stephen Iota
 - [Worksheet 2a](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet2a.pdf): *Understanding Charge Distributions*
 - [Worksheet 2b](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet2b.pdf):
 *Gauss's Theorem*
+- [Worksheet 3](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet3.pdf):
+*Electric Potential Energy
 
 ## Notes
 
