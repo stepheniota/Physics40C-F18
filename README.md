@@ -1,4 +1,5 @@
 # Physics 40C, UCR Fall 2018
+[# Physics 40C, UCR Fall 2018]()
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -7,16 +8,16 @@ Hello all! Here you'll find materials from my Supplemental Instruction Sessions 
 ## Logistics
 
 Physics 40C:
-*General Physics III, Electromagnetism*,<br/>
+*General Physics III, Electromagnetism*<br/>
 Stephen Iota
-` siota001@ucr.edu `<br/>
+`siota001@ucr.edu`<br/>
 [Syllabus](https://github.com/stepheniota/physics-40c-f18/blob/master/syllabus/2018f-p40c-SI-syllabus.pdf)
 
 ### SI Sessions
 
 - **M** 12:00 PM - 1:00 PM in Surge 112
 - **TR** 12:00 PM - 1:00 PM in Surge 108
-- for other session times see https://arc.ucr.edu/excel/si/
+- for other session times see [https://arc.ucr.edu/excel/si/](https://arc.ucr.edu/excel/si/)
 
 ### Lecture
 - Dr. Laura Sales
