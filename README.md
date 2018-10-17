@@ -7,9 +7,9 @@ Hello all! Here you'll find materials from my Supplemental Instruction Sessions 
 ## Logistics
 
 Physics 40C:
-*General Physics III, Electromagnetism*,<br\>
+*General Physics III, Electromagnetism*,<br/>
 Stephen Iota
-` siota001@ucr.edu `<br\>
+` siota001@ucr.edu `<br/>
 [Syllabus](https://github.com/stepheniota/physics-40c-f18/blob/master/syllabus/2018f-p40c-SI-syllabus.pdf)
 
 ### SI Sessions
