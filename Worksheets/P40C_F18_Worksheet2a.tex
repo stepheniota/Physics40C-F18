@@ -9,7 +9,7 @@
 % for revTeX4-1 class options
 
 % for other
-\documentclass{article}
+\documentclass[12pt]{article}
 \usepackage[margin=2cm]{geometry}
 
 %%%%%%%%%%%%%%%%
@@ -119,9 +119,10 @@ October 9, 2018
 \section{The Electric Field of a Continuous Distribution}
 
 \begin{enumerate}[label=(\alph*)]
+
+	\item The electric field strength $2.0$ cm from the surface of a $10$-cm-diameter metal ball is $50,000$ N/C. What is the total  charge $Q$ (in nC) on the metal ball?
 	\item The electric field strength $10.0$ cm away from a very long charged wire\footnote{\label{text}Look in text/notes to find relevant $\vec{E}$ field equation.} is $2000$ N/C. What is the electric field strength $5.0$ cm from the wire?
 	
-	\item The electric field strength $2.0$ cm from the surface of a $10$-cm-diameter metal ball\footnote{See footnote 1.} is $50,000$ N/C. What is the total  charge $Q$ (in nC) on the metal ball?
 \end{enumerate}
 
 
@@ -130,16 +131,13 @@ October 9, 2018
 
 No notes or textbook this time! 
 Show that the electric field $\vec{E}$ at point $p$ a distance $r$ above a wire of length $L$ with total charge $Q$ is: 
-$$\vec{E}(p) = \frac{1}{4\pi\epsilon}\int_{-\frac{L}{2}}^ \frac{L}{2} \! \mathrm{d}x \ \frac{\lambda x}{(r^2 + x^2)^\frac{3}{2}}  \ \hat{y}$$
+$$\vec{E}(p) = \frac{\lambda}{4\pi\epsilon}\int_{-\frac{L}{2}}^ \frac{L}{2} \! \mathrm{d}x \ \frac{x}{(r^2 + x^2)^\frac{3}{2}}  \ \hat{y}$$
 
 \includegraphics[width=.4\linewidth]{W2a_fig3.png}
 
 \hint{\texttt{Hint 1}: See problem 1(a)}
 
-\hint{\texttt{Hint 2}: Use that one theorem by that one greek guy... Pythagoras!}
+\hint{\texttt{Hint 2}: Use the Pythagorean theorem}
 
-\hint{\texttt{Hint 3}: There's a $\cos{\theta}$ in there at some point...}
 
-\hint{\texttt{Hint 4}: No more hints!}{
-
-\end{document}
+\end{document}			
