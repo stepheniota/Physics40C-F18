@@ -35,3 +35,11 @@ Stephen Iota
 - [Week 1](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week1.pdf)
 - [Week 2a](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week2a.pdf)
 - [Week 2b](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week2b.pdf)
+
+
+## [References](https://github.com/stepheniota/physics-40c-f18/blob/master/references.md)
+
+Check out these useful references in the link above.
+
+## Activities
+- [Week 3](https://github.com/stepheniota/physics-40c-f18/blob/master/activities/Week3.md)
