@@ -1,4 +1,4 @@
 ## Session Notes
 
 Presented *as is*, and may have errors.
-They do not represent the most meaningful parts of the class (i.e. discussions, problem solving).
+Not representative of majority of meetings (like discussions, problem solving, questions, student feedback, etc).
