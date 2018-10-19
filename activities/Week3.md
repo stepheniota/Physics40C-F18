@@ -1,4 +1,4 @@
- # Physics 40C (Fall 18)
+# Physics 40C (Fall 18)
 
 Stephen Iota <br/>
 siota001@ucr.edu<br/>

@@ -9,7 +9,7 @@ Hello all! Here you'll find materials from my Supplemental Instruction Sessions 
 
 Physics 40C:
 *General Physics III, Electromagnetism*<br/>
-Stephen Iota
+Stephen Iota<br/>
 `siota001@ucr.edu`<br/>
 [Syllabus](https://github.com/stepheniota/physics-40c-f18/blob/master/syllabus/2018f-p40c-SI-syllabus.pdf)
 
@@ -35,6 +35,7 @@ Stephen Iota
 - [Week 1](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week1.pdf)
 - [Week 2a](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week2a.pdf)
 - [Week 2b](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week2b.pdf)
+- [Week 3](https://github.com/stepheniota/physics-40c-f18/blob/master/Notes/Week3.pdf)
 
 
 ## [References](https://github.com/stepheniota/physics-40c-f18/blob/master/references.md)
