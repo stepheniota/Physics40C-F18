@@ -29,6 +29,8 @@ Stephen Iota<br/>
 *Gauss's Theorem*
 * [Worksheet 3](https://github.com/stepheniota/physics*40c*f18/blob/master/Worksheets/P40C_F18_Worksheet3.pdf):
 *Electric Potential Energy*
+* [Worksheet 4](https://github.com/stepheniota/physics-40c-f18/blob/master/Worksheets/P40C_F18_Worksheet4.pdf):
+*Connecting **V** & **E***
 
 ## Notes
 * [Week 1](https://github.com/stepheniota/physics*40c*f18/blob/master/Notes/Week1.pdf)
