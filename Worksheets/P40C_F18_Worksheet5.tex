@@ -1,0 +1,112 @@
+% LaTeX2e Template by Stephen Iota (https://stepheniota.github.io/)
+% last updated: Oct. 2018
+
+% for papers
+%\documentclass[aps,onecolumn,superscriptaddress]{revtex4-1}
+% https://www-d0.fnal.gov/Run2Physics/WWW/templates/revtex4.pdf
+% https://cdn.journals.aps.org/files/revtex/auguide4-1.pdf
+% for revTeX4-1 class options
+
+% for other
+\documentclass[12pt]{article}
+\usepackage[margin=2cm]{geometry}
+
+%%%%%%%%%%%%%%%%
+%%% Packages %%%
+%%%%%%%%%%%%%%%%
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts} % to remove math font when typesetting equations
+\usepackage{graphicx}
+\usepackage[shortlabels]{enumitem} % to change labels in enum/item
+\usepackage[dvipsnames]{xcolor} % for colored links
+
+
+% always put this at the end
+\usepackage[
+	colorlinks=true,
+	citecolor=green!50!black,
+	linkcolor=NavyBlue!75!black,
+	urlcolor=green!50!black,
+	hypertexnames=false]{hyperref} 
+
+ 
+ %%%%%%%%%%%%%%%%%%
+ %% New Commands %%
+ %%%%%%%%%%%%%%%%%%
+ 
+\newcommand{\email}[1]{\texttt{\href{mailto:#1}{#1}}}
+
+\newcommand{\hint}[1]{\color{Blue}{#1}}
+ 
+%----------------------------------------------------
+%%%%%%%%%%%%%%%%%%
+%% Front Matter %%
+%%%%%%%%%%%%%%%%%%
+
+%\pagenumbering{gobble} % no page numbers
+\graphicspath{{figures/}} % set directory for figures
+\usepackage{wrapfig}
+%\setcounter{section}{-1} % start with section 0
+
+%%%%%%%%%%%%%
+%%% Title %%%
+%%%%%%%%%%%%%
+\begin{document}
+
+\begin{center}
+
+\Large{\textsc{Worksheet 5}: \textbf{Midterm Review}}
+
+\end{center}
+
+\vspace{.5mm}
+
+%%%%%%%%%%
+%% INFO %%
+%%%%%%%%%%
+
+\begin{tabular}{rl}
+\textsc{SI Leader}:
+&
+Stephen Iota (\email{siota001@ucr.edu})
+\\
+\textsc{Course}:
+&
+Physics 40C (Fall 2018), Dr.~Laura Sales
+\\
+\textsc{Date}:
+&
+1 November 2018
+\end{tabular}
+
+%%%%%%%%%%%%%%
+%% PROBLEMS %%
+%%%%%%%%%%%%%%
+
+
+\section{Charged Rod}
+
+A plastic rod is rubbed to a piece of wool until it has a charge of $-5$ nC.
+\begin{enumerate}[(a)]
+	\item Were protons removed to the rod or were electrons added to the rod?
+	\item How many protons/electrons were removed/added?
+\end{enumerate}
+
+\section{Parallel Plate Capacitor}
+A parallel plate capacitor with a spacing of $d = .6$ mm has an Electric field strength of $\lvert \vec{E}\rvert = 50$ N/C. An electron is placed on the positive end of the capacitor.
+\begin{enumerate}[(a)]
+\item How much work $W$  is required to bring the electron to the negative end of the capacitor? (\textsc{Hint:} $E = T + U$)
+
+\item Once the electron is brought to the negative end, it is released and is immediately attracted to the positive end. What will its final velocity be when it reaches the positive end?
+
+
+\section{Dipole Motion}
+
+Describe the motion of a dipole in a constant magnetic field. 
+
+ 
+\end{enumerate}
+\end{document}
