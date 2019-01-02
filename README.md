@@ -14,7 +14,7 @@ Stephen Iota<br/>
 
 ### SI Sessions
 
-- **TR** 12:00 PM - 1:00 PM in Surge 108 (*updated as of 11/02*S)
+- **TR** 12:00 PM - 1:00 PM in Surge 108 (*updated as of 11/02*)
 - for other session times see [https://arc.ucr.edu/excel/si/](https://arc.ucr.edu/excel/si/)
 
 ### Lecture
